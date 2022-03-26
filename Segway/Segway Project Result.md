@@ -10,7 +10,5 @@ dealt with the  messages into the angle, and adapted the PID control(In this cas
 
 Result :
 
-```none
 [![Watch the video](https://github.com/Chiayuu/Small-Project/blob/main/Segway%20Video.mp4)
-```
 
