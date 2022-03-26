@@ -12,5 +12,5 @@ Result :
 
 
 
-![Watch the video](https://github.com/Chiayuu/Small-Project/blob/main/Segway/Segway%20Video.mp4)
+[![Watch the video]](https://github.com/Chiayuu/Small-Project/blob/main/Segway/Segway%20Video.mp4)
 
