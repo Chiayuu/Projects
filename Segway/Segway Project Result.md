@@ -10,11 +10,10 @@ dealt with the  messages into the angle, and adapted the PID control(In this cas
 
 Result :
 
+
+
+
 <figure class="video_container">
-  <iframe src="https://github.com/Chiayuu/Small-Project/blob/main/Segway/Segway%20Video.mp4" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://www.youtube.com/watch?v=FDu946lYcn0" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-
-
-
-[![Watch the video]](https://github.com/Chiayuu/Small-Project/blob/main/Segway/Segway%20Video.mp4)
 
