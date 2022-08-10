@@ -1,3 +1,3 @@
-# Small-Project
+# Projects
 ■ Self-Project     
 ■ Couses Project
